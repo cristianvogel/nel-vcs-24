@@ -9,5 +9,6 @@
 
   from JS
 
+* __ui_mix__ ```Number```
 * __ui_mod__ ```Number```
 
