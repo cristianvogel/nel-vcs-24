@@ -9,4 +9,5 @@
 
   from JS
 
+* __ui_mod__ ```Number```
 
