@@ -5,5 +5,8 @@
 * __pickedID__ ```Number```
 * __readout__ ```Number```
 * __red__ ```Number```
-* __topLeftText__ ```String``` (default Value: `𝌺NeverEngineLabs`)
+* __topLeftText__ ```String``` (default Value: `‣`)
+
+  from JS
+
 
