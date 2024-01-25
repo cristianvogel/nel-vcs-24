@@ -15,6 +15,8 @@
 
   from JS
 
+* __ui_decay__ ```Number```
 * __ui_mix__ ```Number```
 * __ui_mod__ ```Number```
+* __ui_size__ ```Number```
 
