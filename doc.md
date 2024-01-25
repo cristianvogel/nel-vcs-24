@@ -1,10 +1,16 @@
 ## Patch Variables:
 
 * __buttonDown__ ```Number```
+* __fadeUp__ ```Number```
 * __green__ ```Number```
 * __pickedID__ ```Number```
 * __readout__ ```Number```
+
+  exported parameter value
+  
+
 * __red__ ```Number```
+* __row__ ```Number```
 * __topLeftText__ ```String``` (default Value: `‣`)
 
   from JS
