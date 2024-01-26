@@ -7,6 +7,5 @@ OP AUTHORS:
 - ops by cables user stephan (https://cables.gl/user/stephan)
 - ops by cables user simod (https://cables.gl/user/simod)
 - ops by cables user cristianvogel (https://cables.gl/user/cristianvogel)
-- ops by cables user tim (https://cables.gl/user/tim)
 
 cables is build on open source software and community contributions, check https://cables.gl/credits

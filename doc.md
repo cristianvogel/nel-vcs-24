@@ -1,10 +1,5 @@
 ## Patch Variables:
 
-* __buttonDown__ ```Number```
-* __el_meter__ ```Number``` (default Value: `0`)
-
-  snapshots from el
-
 * __fadeUp__ ```Number```
 * __green__ ```Number```
 * __pickedID__ ```Number```
