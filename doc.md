@@ -12,14 +12,14 @@
 
   from JS
 
-* __ui_averageOfParams__ ```Number```
-
-  for triggering change
-
 * __ui_decay__ ```Number```
 * __ui_interpolatingPreset__ ```Array```
 * __ui_mix__ ```Number```
 * __ui_mod__ ```Number```
+* __ui_paramsAverage__ ```Number```
+
+  for triggering change
+
 * __ui_pickedID__ ```Number```
 
   ui_pickedID
