@@ -6,15 +6,6 @@
 * __gridX__ ```Number```
 * __gridY__ ```Number```
 * __ioAnim__ ```Number```
-* __pickedID__ ```Number```
-
-  pickedID
-
-* __readout__ ```Number```
-
-  exported parameter value
-  
-
 * __redPaint__ ```Array```
 * __storedArrays__ ```Array```
 * __topLeftText__ ```String``` (default Value: `‣`)
@@ -25,5 +16,13 @@
 * __ui_interpolatingPreset__ ```Array```
 * __ui_mix__ ```Number```
 * __ui_mod__ ```Number```
+* __ui_pickedID__ ```Number```
+
+  ui_pickedID
+
+* __ui_readout__ ```Number```
+
+  ui_readout
+
 * __ui_size__ ```Number```
 
