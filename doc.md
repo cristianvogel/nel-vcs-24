@@ -11,7 +11,7 @@
 * __param_mod__ ```Number```
 * __param_size__ ```Number```
 * __redPaint__ ```Array```
-* __storedArrays__ ```Array```
+* __storedPresets__ ```Array```
 * __topLeftText__ ```String``` (default Value: `‣`)
 
   from JS
