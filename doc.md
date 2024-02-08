@@ -12,10 +12,6 @@
 * __param_size__ ```Number```
 * __redPaint__ ```Array```
 * __storedPresets__ ```Array```
-* __topLeftText__ ```String``` (default Value: `‣`)
-
-  from JS
-
 * __ui_interpolatingPreset__ ```Array```
 * __ui_paramsAverage__ ```Number```
 
