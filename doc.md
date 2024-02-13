@@ -10,6 +10,7 @@
 * __patch_colorArray__ ```Array```
 * __patch_fadeUp__ ```Number```
 * __patch_ioAnim__ ```Number```
+* __patch_NodeStateArray__ ```Array```
 * __patch_overlayText__ ```Object```
 * __storedPresets__ ```Array```
 * __ui_hasHit__ ```Number```
