@@ -25,7 +25,8 @@
 
   for triggering change
 
-* __ui_paramsViz__ ```Texture```
+* __ui_paramsVizNoSmooth__ ```Texture```
+* __ui_pickedRGBA__ ```Array```
 * __ui_randomisePresets__ ```Number``` (default Value: `0`)
 * __ui_smoothingTime__ ```String```
 * __ui_storedParamsAtPickedID__ ```Array```
