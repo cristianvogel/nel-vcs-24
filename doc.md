@@ -1,6 +1,8 @@
 ## Patch Variables:
 
 * __#ui_hitZ__ ```Number```
+* __NUMBER_NODES__ ```Number``` (default Value: `36`)
+* __NUMBER_PARAMS__ ```Number``` (default Value: `4`)
 * __param_decay__ ```Number```
 * __param_mix__ ```Number```
 * __param_mod__ ```Number```
