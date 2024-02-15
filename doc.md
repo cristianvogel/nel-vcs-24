@@ -24,6 +24,7 @@
   will update 
   DSP values
 
+* __ui_interpolatingPresetObject__ ```Object```
 * __ui_paramsAverage__ ```Number```
 
   for triggering change
