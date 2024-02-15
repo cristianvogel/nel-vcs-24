@@ -19,11 +19,6 @@
 * __ui_hitBodyName__ ```String```
 * __ui_hitX__ ```Number```
 * __ui_hitY__ ```Number```
-* __ui_interpolatingPreset__ ```Array```
-
-  will update 
-  DSP values
-
 * __ui_interpolatingPresetObject__ ```Object```
 * __ui_paramsAverage__ ```Number```
 
