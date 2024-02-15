@@ -19,7 +19,7 @@
 * __ui_hitBodyName__ ```String```
 * __ui_hitX__ ```Number```
 * __ui_hitY__ ```Number```
-* __ui_interpolatingPresetObject__ ```Object```
+* __ui_interpolatingPreset__ ```Array```
 * __ui_paramsAverage__ ```Number```
 
   for triggering change
