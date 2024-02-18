@@ -24,6 +24,12 @@
   forward to external code
 
 * __ui_parameterLocks__ ```Array```
+
+  array 
+  from 
+  Svelte-fsm
+
+* __ui_parameterLocksObject__ ```Object```
 * __ui_paramsAverage__ ```Number```
 
   for triggering change
