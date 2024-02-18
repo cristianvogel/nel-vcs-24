@@ -23,6 +23,7 @@
 
   forward to external code
 
+* __ui_parameterLocks__ ```Array```
 * __ui_paramsAverage__ ```Number```
 
   for triggering change
@@ -31,5 +32,7 @@
 * __ui_pickedRGBA__ ```Array```
 * __ui_randomisePresets__ ```Number```
 * __ui_smoothingTime__ ```String```
-* __ui_storedParamsAtPickedID__ ```Array```
 
+## Patch Functions:
+
+* parameterLock
